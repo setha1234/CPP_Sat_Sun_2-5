@@ -12,7 +12,6 @@ int main()
 {
     // create object structure
     struct Person obj;
-
     // assign values to structure members
     obj.id = 1;
     obj.name = "John Doe";
@@ -23,6 +22,8 @@ int main()
     cout << "Name: " << obj.name << endl;
     cout << "Gender: " << obj.gender << endl;
     cout << "Salary: $" << obj.salary << endl;
+
+    
 
     return 0;
 }

@@ -172,17 +172,17 @@
 // #include <iostream>
 // using namespace std;
 
-// class Animal {
+// class Car {
 //     public:
-//     virtual void MakeSound() const{
-//         cout<<"Animal Sound"<<endl;
+//     virtual void ChangeModel const{
+//          model year color brand
 //     }
 // };
 
-// class Cat : public Animal {
+// class Car : public Car {
 //     public:
-//     void MakeSound() const override{
-//         cout<<"Meow"<<endl;
+//     void ChangeModel() const override{
+//         
 //     }
 // };
 
@@ -204,5 +204,13 @@
     
 
 // }
+
+// Exercise 
+
+/* 
+    Create a class Car 
+    override function : model brand year color 
+
+*/
 
 
