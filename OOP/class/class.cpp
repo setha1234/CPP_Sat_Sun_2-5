@@ -10,7 +10,7 @@ class Test{
         // block methods
         void Input(){}
         void Output(){}
-}
+};
 int main() {
     return 0;
 }
